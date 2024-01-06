@@ -1,6 +1,10 @@
 # Most calm C++ developer
 [![wakatime](https://wakatime.com/badge/user/a6dd0133-f96d-4bb3-a2f0-b22920c60179.svg)](https://wakatime.com/@a6dd0133-f96d-4bb3-a2f0-b22920c60179)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyz-dev21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <br />
 <a href="https://github.com/yz-dev21/github-readme-stats">
   <img height=173 align="center" src="https://github-readme-stats.vercel.app/api?username=yz-dev21&theme=github_dark_dimmed" />
