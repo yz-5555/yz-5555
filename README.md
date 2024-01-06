@@ -3,5 +3,5 @@
 <a href="https://github.com/yz-dev21/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yz-dev21&theme=github_dark_dimmed" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yz-dev21&theme=github_dark_dimmed&layout=compact" />
-  <img width=1000 height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yz21&theme=github_dark_dimmed" />
+  <img width=1400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yz21&theme=github_dark_dimmed" />
 </a>
