@@ -3,5 +3,5 @@
 <br />
 <a href="https://github.com/yz-5555/github-readme-stats">
   <img height=173 align="center" src="https://github-readme-stats.vercel.app/api?username=yz-5555&include_all_commits=true&disable_animations=true&theme=github_dark_dimmed" />
-  <img height=173 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yz5555&theme=github_dark_dimmed&langs_count=3" />
+  <img height=173 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yz5555&theme=github_dark_dimmed&langs_count=5" />
 </a>
